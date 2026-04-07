@@ -47,7 +47,7 @@ Hints:
 * Put one short lucky message inside the file.
 * Keep it fun, friendly, or dramatic.
 
-#### Inspirations
+Inspirations
 
 * “You will debug successfully today.”
 * “Your code will run on the first try.”
