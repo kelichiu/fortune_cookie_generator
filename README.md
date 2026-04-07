@@ -68,17 +68,11 @@ Hints:
 * Stage your changes
 * Create a commit
 * Write a commit message that describes what you added
-
----
-
-### 5. Send your change to GitHub
-
-Hint:
 * Push your commit to the remote repository
 
 ---
 
-### 6. Get others' changes to your local repository
+### 5. Get others' changes to your local repository
 
 Hint:
 * Your peers have pushed their changes to the remote repository
