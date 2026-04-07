@@ -40,10 +40,9 @@ cd fortune_cookie_generator
 
 ### 2️⃣ Create your fortune
 
-Create a `.txt` file with your name like this <firstname_lastname>.txt:
+Create a `.txt` file with your name like this firstname_lastname.txt:
 
 ```bash
-echo "Enter your lucky message here. Keep it short and positive!" > <firstname_lastname>.txt
 ```
 
 ---
@@ -51,7 +50,7 @@ echo "Enter your lucky message here. Keep it short and positive!" > <firstname_l
 ### 3️⃣ Move your file into the fortunes folder
 
 ```bash
-mv <firstname_lastname>.txt fortunes/
+mv firstname_lastname.txt fortunes/
 ```
 
 ---
@@ -59,7 +58,7 @@ mv <firstname_lastname>.txt fortunes/
 ### 4️⃣ Add, commit, and push
 
 ```bash
-git add <firstname_lastname>.txt
+git add firstname_lastname.txt
 git commit -m "Add fortune from <your name>"
 git push origin main
 ```
@@ -81,7 +80,7 @@ git pull
 
 * “You will debug successfully today.”
 * “Your code will run on the first try.”
-* “Your assignment will pass.”
+* “Your module 1 assignment will pass.”
 
 ---
 
