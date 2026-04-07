@@ -43,6 +43,7 @@ cd fortune_cookie_generator
 Create a `.txt` file with your name like this firstname_lastname.txt:
 
 ```bash
+echo "Enter your lucky message here" > firstname_lastname.txt
 ```
 
 ---
