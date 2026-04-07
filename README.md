@@ -29,7 +29,7 @@ fortune_cookie_generator/
 
 ## Instructions
 
-### 1 Clone the repository
+### 1. Clone the repository
 
 Hint:
 * You need to clone the repository from GitHub to your local machine.
@@ -38,7 +38,7 @@ Hint:
 
 ---
 
-### 2 Create your fortune
+### 2. Create your fortune
 
 Create a `.txt` file with your full name like this firstlast.txt:
 
@@ -55,14 +55,14 @@ Hints:
 
 ---
 
-### 3 Move your file into the fortunes folder
+### 3. Move your file into the fortunes folder
 
 Hint:
 * Your file should end up inside the fortunes folder, not in the top level of the repository.
 
 ---
 
-### 4 Add, commit, and push
+### 4. Add, commit, and push
 
 Hints:
 * Stage your changes
@@ -71,14 +71,14 @@ Hints:
 
 ---
 
-### 5 Send your change to GitHub
+### 5. Send your change to GitHub
 
 Hint:
 * Push your commit to the remote repository
 
 ---
 
-### 6 Get others' changes to your local repository
+### 6. Get others' changes to your local repository
 
 Hint:
 * Your peers have pushed their changes to the remote repository
