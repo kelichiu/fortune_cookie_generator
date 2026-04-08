@@ -29,7 +29,7 @@ Each participant will:
 
 ```
 fortune_cookie_generator/
-├── fortune.sh
+├── fortune_cookie_generator.sh
 ├── fortunes/
 │   ├── firstname_lastname.txt
 │   └── (your file goes here!)
