@@ -12,6 +12,16 @@ Each participant will:
 * Add it to the repository
 * Push it to GitHub
 * See their message randomly appear in the fortune generator 🎉
+* Master these commands:
+    * `git clone` — Copy a remote repository to your local machine  
+    * `git status` — Show current changes and staging status  
+    * `git add` — Stage changes for commit  
+    * `git reset` — Undo changes (unstage)  
+    * `git commit` — Save staged changes with a message  
+    * `git push` — Upload local commits to a remote repository  
+    * `git pull` — Fetch and merge changes from a remote repository  
+        * Good to know `git fetch` — Download latest changes from remote (no local changes applied)  
+        * Good to know `git merge` — Combine fetched changes into your current branch  
 
 ---
 
