@@ -19,7 +19,7 @@ Each participant will:
     * `git reset` — Undo changes (unstage)  
     * `git commit` — Save staged changes with a message  
     * `git push` — Upload local commits to a remote repository  
-    * `git pull` — Fetch and merge changes from a remote repository  
+    * `git pull` — Get (fetch and merge) changes from a remote repository  
         * Good to know `git fetch` — Download latest changes from remote (no local changes applied)  
         * Good to know `git merge` — Combine fetched changes into your current branch  
 
