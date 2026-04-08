@@ -17,7 +17,8 @@ Each participant will:
     * `git status` — Show current changes and staging status  
     * `git add` — Stage changes for commit  
     * `git reset` — Undo changes (unstage)  
-    * `git commit` — Save staged changes with a message  
+    * `git commit` — Save staged changes and create a "version" 
+    * `git log` — Check commit history  
     * `git push` — Upload local commits to a remote repository  
     * `git pull` — Get (fetch and merge) changes from a remote repository  
         * Good to know `git fetch` — Download latest changes from remote (no local changes applied)  
