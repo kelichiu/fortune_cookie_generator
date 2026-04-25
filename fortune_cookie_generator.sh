@@ -1,4 +1,8 @@
 #!/usr/bin/env bash
+# Fortune Cookie Generator
+# author : Waqar Ahmed
+
+echo "Welcome to the Fortune Cookie Generator!"
 
 read -p "Ready for a fortune cookie? (y/n): " answer
 
@@ -34,8 +38,9 @@ fi
 random_file=${files[$RANDOM % ${#files[@]}]}
 
 echo ""
-echo "🥠 Your fortune:"
+echo "🥠 Your Fortune.:"
 echo "--------------------"
 cat "$random_file"
 echo ""
 echo "--------------------"
+echo "Enjoy your fortune cookie! 🍪"
